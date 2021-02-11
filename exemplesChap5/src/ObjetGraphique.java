@@ -31,7 +31,7 @@ public abstract class ObjetGraphique {
    public int getY() {
 	   return y;
    }
-   public void setObjetGraphique(int x,int y,int hauteur,int largeur) {
+   public void setObjetGraphique(int x,int y,int largeur,int hauteur) {
 	   this.x=x;
 	   this.y=y;
 	   this.hauteur=hauteur;
