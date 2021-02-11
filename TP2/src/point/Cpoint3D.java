@@ -53,4 +53,8 @@ public class Cpoint3D {
 	public void afficher() {
 		System.out.println("les cordonnés de Cpoint3D est :("+x+","+y+","+z+")");
 	}
+	@Override
+	public String toString() {
+		return "("+x+","+y+","+z+")";
+	}
 }

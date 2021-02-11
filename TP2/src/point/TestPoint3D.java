@@ -11,7 +11,7 @@ public class TestPoint3D {
 		System.out.println("la distance entre p2 et l'origine est : d2="+d2);
 		p1.deplacer(1, -2, 3);
 		p1.afficher();
-		System.out.println("La dist entre p1 et p2"+p1.egal(p2));
+		
 	}	
 	
 }
