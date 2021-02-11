@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\DSI2\Alami\POO\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1596620163.index
+3097334968.index
+1570852477.index
+542094340.index
+3108431294.index
+1289320443.index
