@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a6c1c03-7c70-477b-8a3c-17c3a07d1873" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ExempleClonage/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ExempleClonage/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExempleClonage/bin/TestCellule.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExempleClonage/bin/TestCellule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesChapitre6/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesChapitre6/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesChapitre6/bin/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesChapitre6/bin/App1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesChapitre6/bin/App3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesChapitre6/bin/App3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesChapitre6/bin/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesChapitre6/bin/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesCoursSockets/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesCoursSockets/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesCoursSockets/bin/AccepterClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesCoursSockets/bin/AccepterClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesCoursSockets/bin/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesCoursSockets/bin/Client2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesCoursSockets/bin/ClientObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesCoursSockets/bin/ClientObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesCoursSockets/bin/Serveur1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesCoursSockets/bin/Serveur1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesCoursSockets/bin/Serveur2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesCoursSockets/bin/Serveur2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesCoursSockets/bin/Serveur3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesCoursSockets/bin/Serveur3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplesCoursSockets/bin/ServeurObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplesCoursSockets/bin/ServeurObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBCExemples/.project" beforeDir="false" afterPath="$PROJECT_DIR$/JDBCExemples/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.project" beforeDir="false" afterPath="$PROJECT_DIR$/POO/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP - Disque/.project" beforeDir="false" afterPath="$PROJECT_DIR$/TP - Disque/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/bin/Cercle.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/bin/Cercle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/bin/Comparaison.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/bin/Comparaison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/bin/Exemple1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/bin/Exemple1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/bin/Mention.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/bin/Mention.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/bin/Multiple.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/bin/Multiple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/bin/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/bin/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/bin/OperationV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/bin/OperationV2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/bin/ProduitImpaire.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/bin/ProduitImpaire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/Disque.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/Disque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/Etudiant.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/Etudiant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/Segment.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/Segment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/TestNotes.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/TestNotes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/TestSphere.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/TestSphere.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/Test_Segment.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/Test_Segment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/Unite.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/Unite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/notes/TestLireClavier.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/notes/TestLireClavier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/notes/TestLireClavier2.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/notes/TestLireClavier2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/bin/point/Cpoint3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/bin/point/Cpoint3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5/.project" beforeDir="false" afterPath="$PROJECT_DIR$/TP5/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5/bin/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP5/bin/Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP5/bin/TestDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP5/bin/TestDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP6/.project" beforeDir="false" afterPath="$PROJECT_DIR$/TP6/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP6/bin/Enseignant.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP6/bin/Enseignant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP6/bin/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP6/bin/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP6/bin/TestPersonnel.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP6/bin/TestPersonnel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPs/.project" beforeDir="false" afterPath="$PROJECT_DIR$/TPs/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tp3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Tp3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tp3/bin/Ballon.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tp3/bin/Ballon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap3/bin/TestPoint2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap3/bin/TestPoint2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap4/bin/Exemple3ChaineToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap4/bin/Exemple3ChaineToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap5/.project" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap5/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap5/bin/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap5/bin/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap5/bin/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap5/bin/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap5/bin/Pomme.class" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap5/bin/Pomme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplesChap5/bin/TestBanque.class" beforeDir="false" afterPath="$PROJECT_DIR$/exemplesChap5/bin/TestBanque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scolarite/.project" beforeDir="false" afterPath="$PROJECT_DIR$/scolarite/.project" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pDOeL7LnopxoFeiNwc8M18PCUd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a6c1c03-7c70-477b-8a3c-17c3a07d1873" name="Default Changelist" comment="" />
+      <created>1614714289139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614714289139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="65" y="0" key="new project wizard" timestamp="1614714321156">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1614714321156" />
+  </component>
+</project>

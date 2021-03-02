@@ -1,3 +1,4 @@
+import java.util.HashSet;
 
 public abstract class Fruit {
 	protected int poids;
@@ -10,5 +11,6 @@ public abstract class Fruit {
 		return "poids:"+poids;
 	}
 	public abstract void affichePoids();
-
+	
+	
 }
